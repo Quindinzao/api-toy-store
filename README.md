@@ -1,6 +1,6 @@
 # Saudações 🖖
 
-Esta é uma API feita em Node.js, para rodá-la, você vai apenas precisar rodar _npm install_ para baixar os aruqivos. 
+Esta é uma API feita em Node.js, para rodá-la, você vai apenas precisar rodar _npm install_ para baixar os arquivos. 
 Para testar, _npm test_.
 Para rodar, _npm start_.
 
